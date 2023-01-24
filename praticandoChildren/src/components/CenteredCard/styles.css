@@ -1,0 +1,26 @@
+.divPai {
+    border: 1px solid gray;
+    width: 400px;
+    height: 340px;
+
+    background-color: #f5f5f5;
+
+    border-radius: 15px;
+
+    margin: .4rem;
+
+    color: black;
+
+    cursor: pointer;
+
+    transition: .4s ease;
+}
+
+.divPai:hover {
+    width: 410px;
+    height: 350px;
+}
+
+.img {
+    width: 100%;
+}
